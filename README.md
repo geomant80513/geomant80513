@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geomant80513
 - 👀 I’m interested in automating my personal astronomy observatory.
 - 🌱 I’m currently learning Python, Arduino (C), Raspberry Pi (Linux)
-- 💞️ I’m looking to collaborate on nothing at the moment, but towards the end of 2022, mabye some astronomy apps.
+- 💞️ I’m looking to collaborate on nothing at the moment, but towards the end of 2022, maybe some astronomy apps.
 - 📫 How to reach me: message here at GitHub.
 
 <!---
